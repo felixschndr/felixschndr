@@ -40,7 +40,7 @@
   - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [<img width="26px" src="./eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/) 
 - [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/) 
-- [<img width="26px" src="https://www.flaticon.com/de/premium-icon/icons/svg/1240/1240971.svg">](https://github.com/) [Github](https://github.com/)
+- [<img width="26px" src="./github.svg">](https://github.com/) [Github](https://github.com/)
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/Trysupe/bashrc) [My loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 
 <br>
