@@ -21,12 +21,17 @@
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822877.svg">](https://en.wikipedia.org/wiki/C%2B%2B?)
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/524/524545.svg">](https://en.wikipedia.org/wiki/HTML)
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1062/1062304.svg">](https://en.wikipedia.org/wiki/CSS/)
-[<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://code.visualstudio.com/)
+[<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://en.wikipedia.org/wiki/JavaScript)
 [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">](https://en.wikipedia.org/wiki/SQL)
 *English & German*
 
 
 ## Tools
+- [<img width="26px" src="./ansible.svg">](https://www.ansible.com/) [Ansible](https://www.ansible.com/) 
+- [<img width="26px" src="./eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/) 
+- [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/) 
+- [<img width="26px" src="./github.svg">](https://github.com/) [Github](https://github.com/)
+- [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/Trysupe/bashrc) [My loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/) [VSCode](https://code.visualstudio.com/) 
   - [Autocompletion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Bracket Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -38,16 +43,12 @@
   - [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
   - [Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
   - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
-- [<img width="26px" src="./eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/) 
-- [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/) 
-- [<img width="26px" src="./github.svg">](https://github.com/) [Github](https://github.com/)
-- [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/Trysupe/bashrc) [My loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 
 <br>
 
 ## About Me
-|                 |                                                                                                                                                                                                         |                                                                                                                                                                                           |
-| --------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| My GitHub Stats | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" /> |                                                                    ( This doesn't include my repositories at work :/ )                                                                    |
-| Music           |                                                             I love listening to music. Enjoy with me the track I'm currently listening to:                                                              |             [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)              |
-| Contact Me      |                                              [<img width="26px" src="./mail.svg">](mailto:fs@felix-schneider.org) [E-Mail](mailto:fs@felix-schneider.org)                                               | [<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/felix.schndr/) [Instagram](https://www.instagram.com/felix.schndr/) |
+| []()                |                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| ------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **My GitHub Stats** | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" /> |                                                                    ( This doesn't include my repositories at work :/ )                                                                    |
+| **Music**           |                                                             I love listening to music. Enjoy with me the track I'm currently listening to:                                                              |             [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)              |
+| **Contact Me**      |                                              [<img width="26px" src="./mail.svg">](mailto:fs@felix-schneider.org) [E-Mail](mailto:fs@felix-schneider.org)                                               | [<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/felix.schndr/) [Instagram](https://www.instagram.com/felix.schndr/) |
