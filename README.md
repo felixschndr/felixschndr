@@ -1,5 +1,9 @@
-# Hey there, I'm Felix 👋
+<h1 align="center">Hi there, I'm Felix Schneider</a> <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
+<br />
+
+
+<img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="260" />
 
 - 🎇 19 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
@@ -9,7 +13,8 @@
   - Shout **really** loud
   - [EMail](mailto:fs@felix-schneider.org)
   - [Instagramm](https://www.instagram.com/felix.schndr/)
-- 🍔 I ♥ Burgers!
+- 🍔 I ♥ Burgers
+- 💬 Ask me about anything, I am happy to help!
 
 
 ## Languages
@@ -21,7 +26,7 @@
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822877.svg">](https://en.wikipedia.org/wiki/C%2B%2B?)
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/524/524545.svg">](https://en.wikipedia.org/wiki/HTML)
 [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1062/1062304.svg">](https://en.wikipedia.org/wiki/CSS/)
-[<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://en.wikipedia.org/wiki/JavaScript)
+[<img width="26px" src="js.svg">](https://en.wikipedia.org/wiki/JavaScript)
 [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">](https://en.wikipedia.org/wiki/SQL)
 *English & German*
 
@@ -47,7 +52,11 @@
 <br>
 
 ## About Me
-| Contact Me      |                                              [<img width="26px" src="./mail.svg">](mailto:fs@felix-schneider.org) [E-Mail](mailto:fs@felix-schneider.org)                                               | [<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/felix.schndr ) [Instagram](https://www.instagram.com/felix.schndr/) |
-| --------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| My GitHub Stats | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" /> |                                                                    ( This doesn't include my repositories at work :/ )                                                                    |
-| Music           |                                                             I love listening to music. Enjoy with me the track I'm currently listening to:                                                              |             [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)              |
+| **Contact Me**      |                                              [<img width="26px" src="./mail.svg">](mailto:fs@felix-schneider.org) [E-Mail](mailto:fs@felix-schneider.org)                                               | [<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/felix.schndr ) [Instagram](https://www.instagram.com/felix.schndr/) |
+| ------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **My GitHub Stats** | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" /> |                                                                    ( This doesn't include my repositories at work :/ )                                                                    |
+| **Music**           |                                                             I love listening to music. Enjoy with me the track I'm currently listening to:                                                              |             [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)              |
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
