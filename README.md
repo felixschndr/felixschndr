@@ -89,6 +89,7 @@ No Activity Tracked This Week
 
 ```
 
+<<<<<<< HEAD
 **I Mostly Code in Shell**
 
 ```text
@@ -97,5 +98,7 @@ Shell                    2 repos             ███████████�
 ```
 
 
+=======
+>>>>>>> 663472e22c42fa14e13e17a579f8c7423bcd2f10
 
 <!--END_SECTION:waka-->
