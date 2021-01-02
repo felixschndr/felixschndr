@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Felix Schneider</a> <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hey there, I'm Felix Schneider</a> <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
 <br />
 
@@ -37,7 +37,7 @@
 - [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/) 
 - [<img width="26px" src="./github.svg">](https://github.com/) [Github](https://github.com/)
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/Trysupe/bashrc) [My loved bash aliases and functions](https://github.com/Trysupe/bashrc)
-- [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/) [VSCode](https://code.visualstudio.com/) 
+- [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/) [VSCode](https://code.visualstudio.com/)
   - [Autocompletion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Bracket Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
   - [HTML Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
