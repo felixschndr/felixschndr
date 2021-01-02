@@ -90,13 +90,5 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
-
-```text
-Shell                    2 repos             █████████████████████████   100.0%
-
-```
-
-
 
 <!--END_SECTION:waka-->
