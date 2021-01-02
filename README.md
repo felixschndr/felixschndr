@@ -48,7 +48,6 @@
   - [Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
   - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 
-<br>
 
 ## About Me
 | **Contact Me**      |                                              [<img width="26px" src="./mail.svg">](mailto:fs@felix-schneider.org) [E-Mail](mailto:fs@felix-schneider.org)                                               | [<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/felix.schndr ) [Instagram](https://www.instagram.com/felix.schndr/) |
