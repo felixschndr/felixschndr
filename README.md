@@ -40,7 +40,7 @@
   - [Autocompletion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Bracket Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
   - [HTML Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - [Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - [Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
   - [OpenHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
   - [OpenHAB Alignment](https://marketplace.visualstudio.com/items?itemName=max-beckenbauer.oh-alignment-tool)
   - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
