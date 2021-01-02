@@ -3,7 +3,7 @@
 <br />
 
 
-<img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="260" />
+<img  style="float: right;" alt="GIF" src="code.gif?raw=true" width="380" height="210" />
 
 - 🎇 19 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
@@ -14,7 +14,6 @@
   - [EMail](mailto:fs@felix-schneider.org)
   - [Instagramm](https://www.instagram.com/felix.schndr/)
 - 🍔 I ♥ Burgers
-- 💬 Ask me about anything, I am happy to help!
 
 
 ## Languages
@@ -32,9 +31,9 @@
 
 
 ## Tools
-- [<img width="26px" src="./ansible.svg">](https://www.ansible.com/) [Ansible](https://www.ansible.com/) 
-- [<img width="26px" src="./eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/) 
-- [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/) 
+- [<img width="26px" src="./ansible.svg">](https://www.ansible.com/) [Ansible](https://www.ansible.com/)
+- [<img width="26px" src="./eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/)
+- [<img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg">](https://git-scm.com/) [Git](https://git-scm.com/)
 - [<img width="26px" src="./github.svg">](https://github.com/) [Github](https://github.com/)
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/Trysupe/bashrc) [My loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/) [VSCode](https://code.visualstudio.com/)
@@ -59,38 +58,38 @@
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-🌆 Daytime    71 commits     ████████░░░░░░░░░░░░░░░░░   35.32% 
-🌃 Evening    97 commits     ████████████░░░░░░░░░░░░░   48.26% 
+🌞 Morning    33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+🌆 Daytime    71 commits     ████████░░░░░░░░░░░░░░░░░   35.32%
+🌃 Evening    97 commits     ████████████░░░░░░░░░░░░░   48.26%
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-Tuesday      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39%
+Tuesday      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.91%
+Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47%
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44%
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46%
 Sunday       56 commits     ███████░░░░░░░░░░░░░░░░░░   27.86%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Shell**
 
 ```text
 Shell                    2 repos             █████████████████████████   100.0%
