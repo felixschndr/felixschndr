@@ -83,9 +83,6 @@ Sunday       56 commits     ███████░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 ```
 
 
