@@ -1,6 +1,6 @@
 <h1 align="center">Ahoy! I'm Felix Schneider</a> <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
-<br />
+<br/>
 
 
 <img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="210" />
