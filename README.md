@@ -3,7 +3,7 @@
 <br />
 
 
-<img align="right" alt="GIF" src="code.gif" width="380" height="210" />
+<img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="210" />
 
 - 🎇 19 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
@@ -57,30 +57,30 @@
 | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" width="700" /> <br /> ( This doesn't include my repositories at work :/ ) | I ♥ listening to music.  <br /> Enjoy with me the track I'm currently jamming to: [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de) |
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-🌆 Daytime    72 commits     █████████░░░░░░░░░░░░░░░░   35.82% 
-🌃 Evening    95 commits     ███████████░░░░░░░░░░░░░░   47.26% 
+🌞 Morning    33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+🌆 Daytime    72 commits     █████████░░░░░░░░░░░░░░░░   35.82%
+🌃 Evening    95 commits     ███████████░░░░░░░░░░░░░░   47.26%
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39%
+Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.41%
+Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47%
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44%
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45%
 Sunday       55 commits     ██████░░░░░░░░░░░░░░░░░░░   27.36%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ```
