@@ -38,16 +38,18 @@
 - [<img width="26px" src="./pictures/kitty.svg">](http://www.9bis.net/kitty/#!index.md) [Kitty (An improved version of the SSH client Putty)](http://www.9bis.net/kitty/#!index.md)
 - [<img width="26px" src="./pictures/terminal.png">](https://github.com/Trysupe/bashrc) [My own loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 - [<img width="26px" src="./pictures/vscode.png">](https://code.visualstudio.com/) [Visual Studio Code](https://code.visualstudio.com/)
-  - [Autocompletion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
-  - [Bracket Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-  - [HTML Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - [Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-  - [OpenHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
-  - [OpenHAB Alignment](https://marketplace.visualstudio.com/items?itemName=max-beckenbauer.oh-alignment-tool)
-  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-  - [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
-  - [Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-  - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+  - Tools
+    - [Autocompletion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+    - [HTML Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    - [OpenHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
+    - [OpenHAB Alignment](https://marketplace.visualstudio.com/items?itemName=max-beckenbauer.oh-alignment-tool)
+    - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+    - [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
+  - Visual Improvements
+    - [Bracket Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+    - [Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+    - [Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+    - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [<img width="26px" src="./pictures/wireshark.svg">](https://www.wireshark.org/) [Wireshark](https://www.wireshark.org/)
 
 
