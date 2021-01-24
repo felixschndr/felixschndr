@@ -13,7 +13,7 @@
   - Shout **really** loud
   - [EMail](mailto:fs@felix-schneider.org)
   - [Instagramm](https://www.instagram.com/felix.schndr/)
-- 🍔 I ♥ Burgers
+- 🍽 I ♥ Burgers🍔
 
 
 ## Languages
@@ -33,8 +33,10 @@
 ## Tools
 - [<img width="26px" src="./pictures/ansible.svg">](https://www.ansible.com/) [Ansible](https://www.ansible.com/)
 - [<img width="26px" src="./pictures/eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/)
+- [<img width="26px" src="./pictures/grafana.svg">](https://grafana.com/grafana) [Grafana](https://grafana.com/grafana)
 - [<img width="26px" src="./pictures/git.svg">](https://git-scm.com/) [Git](https://git-scm.com/)
 - [<img width="26px" src="./pictures/github.svg">](https://github.com/) [Github](https://github.com/)
+- [<img width="26px" src="./pictures/influxdb.svg">](https://www.influxdata.com/) [InfluxDB](https://www.influxdata.com/)
 - [<img width="26px" src="./pictures/kitty.svg">](http://www.9bis.net/kitty/#!index.md) [Kitty (An improved version of the SSH client Putty)](http://www.9bis.net/kitty/#!index.md)
 - [<img width="26px" src="./pictures/terminal.png">](https://github.com/Trysupe/bashrc) [My own loved bash aliases and functions](https://github.com/Trysupe/bashrc)
 - [<img width="26px" src="./pictures/vscode.png">](https://code.visualstudio.com/) [Visual Studio Code](https://code.visualstudio.com/)
