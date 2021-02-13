@@ -15,9 +15,6 @@
   - [Instagramm](https://www.instagram.com/felix.schndr/)
 - 🍔 I ♥ Burgers
 
-
-<br>
-
 # About Me
 <img src="./pictures/metrics.svg">
 
