@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: classic
+          template: terminal
           token: ${{ secrets.LOWLIGHTER_METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_followup: yes
