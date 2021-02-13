@@ -16,7 +16,12 @@
 - 🍽 I ♥ Burgers🍔
 
 
+<br> <br>
+
+# About Me
 ![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)
+
+[<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)
 
 
 ## Languages
