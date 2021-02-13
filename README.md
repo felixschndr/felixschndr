@@ -19,10 +19,8 @@
 <br> <br>
 
 # About Me
-![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)
-
-[<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de)
-
+<!--![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)-->
+<img src="./github-metrics.svg">
 
 ## Languages
 
@@ -39,11 +37,20 @@
 
 
 ## Tools
+
+[<img width="26px" src="./pictures/ansible.svg">](https://www.ansible.com/)
+[<img width="26px" src="./pictures/eclipseide.svg">](https://www.eclipse.org/)
+[<img width="26px" src="./pictures/grafana.svg">](https://grafana.com/grafana)
+[<img width="26px" src="./pictures/influxdb.svg">](https://www.influxdata.com/)
+[<img width="26px" src="./pictures/kitty.svg">](http://www.9bis.net/kitty/#!index.md)
+[<img width="26px" src="./pictures/terminal.png">](https://github.com/Trysupe/bashrc)
+[<img width="26px" src="./pictures/vscode.png">](https://code.visualstudio.com/)
+[<img width="26px" src="./pictures/wireshark.svg">](https://www.wireshark.org/)
+
+<!--
 - [<img width="26px" src="./pictures/ansible.svg">](https://www.ansible.com/) [Ansible](https://www.ansible.com/)
 - [<img width="26px" src="./pictures/eclipseide.svg">](https://www.eclipse.org/) [Eclipse](https://www.eclipse.org/)
 - [<img width="26px" src="./pictures/grafana.svg">](https://grafana.com/grafana) [Grafana](https://grafana.com/grafana)
-- [<img width="26px" src="./pictures/git.svg">](https://git-scm.com/) [Git](https://git-scm.com/)
-- [<img width="26px" src="./pictures/github.svg">](https://github.com/) [Github](https://github.com/)
 - [<img width="26px" src="./pictures/influxdb.svg">](https://www.influxdata.com/) [InfluxDB](https://www.influxdata.com/)
 - [<img width="26px" src="./pictures/kitty.svg">](http://www.9bis.net/kitty/#!index.md) [Kitty (An improved version of the SSH client Putty)](http://www.9bis.net/kitty/#!index.md)
 - [<img width="26px" src="./pictures/terminal.png">](https://github.com/Trysupe/bashrc) [My own loved bash aliases and functions](https://github.com/Trysupe/bashrc)
@@ -61,12 +68,12 @@
     - [Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
     - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [<img width="26px" src="./pictures/wireshark.svg">](https://www.wireshark.org/) [Wireshark](https://www.wireshark.org/)
+-->
 
-
-## About Me
+<!--## About Me
 |                                                                                                                              **My GitHub Stats**                                                                                                                               |                                                                                                                     **Music**                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" width="700" /> <br /> ( This doesn't include my repositories at work :/ ) | I ♥ listening to music.  <br /> Enjoy with me the track I'm currently jamming to: [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de) |
+| <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" width="700" /> <br /> ( This doesn't include my repositories at work :/ ) | I ♥ listening to music.  <br /> Enjoy with me the track I'm currently jamming to: [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de) | --> |
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
