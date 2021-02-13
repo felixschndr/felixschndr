@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: terminal
+          template: classic
           token: ${{ secrets.LOWLIGHTER_METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_followup: yes
           plugin_isocalendar: yes
           filename: pictures/metrics.svg
           optimize: no
+          config_timezone: DE
