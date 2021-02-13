@@ -12,6 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          template: repository
           # Your GitHub token
           token: ${{ secrets.LOWLIGHTER_METRICS }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
@@ -19,7 +20,5 @@ jobs:
           plugin_activity: yes
           plugin_followup: yes
           plugin_habits: yes
+          plugin_habits_charts: yes
           plugin_isocalendar: yes
-          plugin_languages: yes
-          #plugin_lines: yes
-          plugin_wakatime: ${{ secrets.WAKATIME_API_KEY }}
