@@ -6,14 +6,17 @@
 <img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="210" />
 
 - 🎇 19 years old
-- 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
+<!-- - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8) -->
 - 🔭 Always working on my own SmartHome with [OpenHAB](https://www.openhab.org/)
 - 📖 Currently studying computer science at [Karlsruhe University of Applied Sciences](https://www.hs-karlsruhe.de/en/)
-- 📫 How to reach me
+<!-- - 📫 How to reach me
   - Shout **really** loud
   - [EMail](mailto:fs@felix-schneider.org)
-  - [Instagramm](https://www.instagram.com/felix.schndr/)
+  - [Instagramm](https://www.instagram.com/felix.schndr/)-->
 - 🍽 I ♥ Burgers🍔
+
+
+![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)
 
 
 ## Languages
@@ -63,4 +66,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)
+
