@@ -76,6 +76,35 @@
 | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" width="700" /> <br /> ( This doesn't include my repositories at work :/ ) | I ♥ listening to music.  <br /> Enjoy with me the track I'm currently jamming to: [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de) |  |
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    74 commits     █████████░░░░░░░░░░░░░░░░   37.0% 
+🌃 Evening    99 commits     ████████████░░░░░░░░░░░░░   49.5% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
+Tuesday      23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
+Wednesday    42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Friday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Saturday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Sunday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+
 <!--END_SECTION:waka-->
 
 
