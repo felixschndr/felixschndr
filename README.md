@@ -8,8 +8,8 @@
 - 🎇 19 years old
 <!-- - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8) -->
 - 🔭 Always working on my own SmartHome based on [OpenHAB](https://www.openhab.org/)
-- 📖 Currently studying computer science at [Karlsruhe University of Applied Sciences](https://www.hs-karlsruhe.de/en/)
- - 📫 How to reach me
+- 📖 Currently studying [computer science](https://www.hs-karlsruhe.de/en/faculties/computer-science-business-information-systems/bachelor/computer-science-bachelor) at [Karlsruhe University of Applied Sciences](https://www.hs-karlsruhe.de/en/)
+- 📫 How to reach me
   - Shout **really** loud
   - [EMail](mailto:fs@felix-schneider.org)
   - [Instagramm](https://www.instagram.com/felix.schndr/)
