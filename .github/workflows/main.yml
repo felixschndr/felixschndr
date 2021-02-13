@@ -9,7 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
           template: classic
@@ -18,4 +17,4 @@ jobs:
           plugin_followup: yes
           plugin_isocalendar: yes
           filename: pictures/metrics.svg
-          config_order: "plugin_isocalendar, plugin_followup"
+          optimize: no
