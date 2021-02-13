@@ -3,7 +3,7 @@
 <br/>
 
 
-<img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="210" />
+<img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="240" />
 
 - 🎇 19 years old
 <!-- - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8) -->
