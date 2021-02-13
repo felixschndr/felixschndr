@@ -62,3 +62,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![Metrics](https://github.com/Trysupe/Trysupe/blob/main/github-metrics.svg)
