@@ -76,12 +76,12 @@
 | <img alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trysupe&show_icons=true&hide_border=true&theme=radical&hide=stars&count_private=true&hide_title=true" width="700" /> <br /> ( This doesn't include my repositories at work :/ ) | I ♥ listening to music.  <br /> Enjoy with me the track I'm currently jamming to: [<img src="https://novatorem.trysupe.vercel.app/api/spotify" alt="Felix Schneider Spotify Playing" width="350" />](https://open.spotify.com/user/outside-120-de) |  |
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    74 commits     █████████░░░░░░░░░░░░░░░░   37.0% 
-🌃 Evening    99 commits     ████████████░░░░░░░░░░░░░   49.5% 
+🌆 Daytime    77 commits     █████████░░░░░░░░░░░░░░░░   38.5% 
+🌃 Evening    96 commits     ████████████░░░░░░░░░░░░░   48.0% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 ```
