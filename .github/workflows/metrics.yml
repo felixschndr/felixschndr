@@ -19,6 +19,8 @@ jobs:
           filename: pictures/metrics.svg
           optimize: no
           config_timezone: DE
-          plugin_stars: yes
-          plugin_stars_limit: 2 # Limit to two entries
           plugin_lines: yes
+          plugin_reactions: yes
+          plugin_reactions_limit: 1000                 # Compute reactions over last 200 issue comments
+          plugin_reactions_days: 365                   # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: percentage         # Display reactions count and percentage
