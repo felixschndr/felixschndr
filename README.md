@@ -8,10 +8,10 @@
 - 🎇 19 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
 - 🔭 Always working on my own SmartHome based on [OpenHAB](https://www.openhab.org/)
-- 📖 Currently studying [computer science](https://www.h-ka.de/en/about-hka/faculties/computer-science-and-business-information-systems/overview) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/)
+- 📖 Currently studying [computer science](https://www.h-ka.de/en/about-hka/faculties/computer-science-and-business-information-systems/overview) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/) and working at [AB+M GmbH](https://www.abm.de/)
 - 📫 How to reach me
-  - Shout **really** loud
   - [EMail](mailto:fs@felix-schneider.org)
+  - [LinkedIn](www.linkedin.com/in/felix-schneider-377a47215)
   - [Instagramm](https://www.instagram.com/felix.schndr/)
   - DM me on the [OpenHAB Forum](https://community.openhab.org/)
 - 🍔 I ♥ Burgers
@@ -19,6 +19,8 @@
 # About Me
 <img src="./pictures/metrics.svg">
 
+
+<!--
 | Languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<img width="26px" src="./pictures/java.svg">](https://en.wikipedia.org/wiki/Java_Development_Kit)[<img width="26px" src="./pictures/terminal.png">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))[<img width="26px" src="./pictures/python.svg">](https://en.wikipedia.org/wiki/Python_(programming_language))[<img width="26px" src="./pictures/c.svg">](https://en.wikipedia.org/wiki/C_(programming_language))[<img width="26px" src="./pictures/c++.svg">](https://en.wikipedia.org/wiki/C%2B%2B?)[<img width="26px" src="./pictures/html.svg">](https://en.wikipedia.org/wiki/HTML)[<img width="26px" src="./pictures/css.svg">](https://en.wikipedia.org/wiki/CSS/)[<img width="26px" src="./pictures/js.svg">](https://en.wikipedia.org/wiki/JavaScript)[<img width="26px" src="./pictures/sql.png">](https://en.wikipedia.org/wiki/SQL) | [<img width="26px" src="./pictures/ansible.svg">](https://www.ansible.com/)[<img width="26px" src="./pictures/eclipseide.svg">](https://www.eclipse.org/)[<img width="26px" src="./pictures/grafana.svg">](https://grafana.com/grafana)[<img width="26px" src="./pictures/influxdb.svg">](https://www.influxdata.com/)[<img width="26px" src="./pictures/kitty.svg">](http://www.9bis.net/kitty/#!index.md)[<img width="26px" src="./pictures/terminal.png">](https://github.com/Trysupe/bashrc)[<img width="26px" src="./pictures/vscode.png">](https://code.visualstudio.com/)[<img width="26px" src="./pictures/wireshark.svg">](https://www.wireshark.org/) |
@@ -71,6 +73,7 @@
 - [<img width="26px" src="./pictures/wireshark.svg">](https://www.wireshark.org/) [Wireshark](https://www.wireshark.org/)
 -->
 
+
 <!--## About Me
 |                                                                                                                              **My GitHub Stats**                                                                                                                               |                                                                                                                     **Music**                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -79,5 +82,3 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-
