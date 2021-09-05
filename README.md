@@ -8,7 +8,7 @@
 - 🎇 19 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
 - 🔭 Always working on my own SmartHome based on [OpenHAB](https://www.openhab.org/)
-- 📖 Currently studying [computer science](https://www.h-ka.de/en/about-hka/faculties/computer-science-and-business-information-systems/overview) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/) and working at [AB+M GmbH](https://www.abm.de/)
+- 📖 Currently studying [computer science](https://www.h-ka.de/en/study/study-in-german/bachelor/computer-science/profile) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/) and working at [AB+M GmbH](https://www.abm.de/)
 - 📫 How to reach me
   - [EMail](mailto:fs@felix-schneider.org)
   - [LinkedIn](www.linkedin.com/in/felix-schneider-377a47215)
