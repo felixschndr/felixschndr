@@ -11,7 +11,7 @@
 - 📖 Currently studying [computer science](https://www.h-ka.de/en/study/study-in-german/bachelor/computer-science/profile) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/) and working at [DE-CIX](https://github.com/DE-CIX)
 - 📫 How to reach me
   - [E-Mail](mailto:fs@felix-schneider.org)
-  - [LinkedIn](https://www.linkedin.com/in/felix-schneider-377a47215/)
+  - [LinkedIn](https://www.linkedin.com/in/felix-schneider-ka/)
   - DM me on the [OpenHAB Forum](https://community.openhab.org/)
 - 🍔 I ♥ Burgers
 
