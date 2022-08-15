@@ -144,6 +144,10 @@
   .no-margin-top {
     margin-top: 0px;
   }
+  .margin-lr-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* User avatar */
   .avatar {
@@ -852,6 +856,47 @@
     fill: currentColor;
   }
 
+/* Diff stats */
+  .diff-handle {
+    color: #58a6ff;
+    max-width: 200px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .large .diff-handle {
+    max-width: 400px;
+  }
+  .diff-box {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-left: 1px;
+    background-color: rgba(110, 118, 129, 0.4);
+    border: 1px solid rgba(246, 240, 251, 0.1);
+  }
+  .diff-box:first-child {
+    margin-left: 9px;
+  }
+  .diff-box.added {
+    background-color: rgb(63, 185, 80);
+  }
+  .diff-box.deleted {
+    background-color: rgb(218, 54, 51);
+  }
+  .diff-stats {
+    margin-left: 4px;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-weight: bold;
+    font-size: 12px;
+    white-space: pre;
+  }
+  .added {
+    color: rgb(63, 185, 80);
+  }
+  .deleted {
+    color: rgb(218, 54, 51);
+  }
+
 /* People */
   .people {
     padding: 0 10px;
@@ -875,6 +920,17 @@
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
+  }
+  .project .items, .project-items {
+    padding-left: 11px;
+  }
+  .project .items .text, .project-items .text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 426px;
+  }
+  .large .project .items .text, .large .project-items .text {
+    width: 916px;
   }
 
 /* Star lists */
@@ -1677,6 +1733,8 @@
 
       
         
+      
+        
   <section>
     <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/></svg>
@@ -1866,6 +1924,7 @@
 
       
         
+
       
         
       
@@ -1877,7 +1936,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 15 Aug 2022, 02:03:50  with lowlighter/metrics@3.26.0</span>
+          <span>Last updated 15 Aug 2022, 04:14:39  with lowlighter/metrics@3.27.0</span>
         </footer>
       
 
