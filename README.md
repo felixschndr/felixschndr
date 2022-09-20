@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="./pictures/code.gif" width="380" height="240" />
 
-- 🎇 20 years old
+- 🎇 21 years old
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
 - 🔭 Always working on my own SmartHome based on [OpenHAB](https://www.openhab.org/)
 - 📖 Currently studying [computer science](https://www.h-ka.de/en/study/study-in-german/bachelor/computer-science/profile) at [Karlsruhe University of Applied Sciences](https://www.h-ka.de/en/) and working at [DE-CIX](https://github.com/DE-CIX)
