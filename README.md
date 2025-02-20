@@ -1,9 +1,9 @@
-<h1 align="center">Hey there! I'm Felix Schneider</a> <img src="./pictures/hi.gif" height="32" /></h1>
+<h1 align="center">Hey there! I'm Felix Schneider</a> <img src="./assets/hi.gif" height="32" /></h1>
 
 <br/>
 
 
-<img align="right" alt="GIF" src="./pictures/code.gif"  height="200" />
+<img align="right" alt="GIF" src="./assets/code.gif"  height="200" />
 
 - 🚀 Based in [Karlsruhe in Germany](https://goo.gl/maps/unW9bkUYoSNktofa8)
 - 🔭 Always working on my own SmartHome based on [OpenHAB](https://www.openhab.org/)
